@@ -1,0 +1,21 @@
+
+---
+
+## 🧠 Key Learnings
+- Good prompts behave like good APIs
+- Separating understanding, planning, and response improves AI behavior
+- Iteration is more valuable than one-shot prompting
+
+---
+
+## 🚀 Future Improvements
+- Quiz mode
+- Progress tracking
+- Weak topic detection
+- Multi-user simulation
+
+---
+
+## 📬 Contact
+📧 Email: kishan1122002@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/your-link-here
